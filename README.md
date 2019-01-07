@@ -3,7 +3,7 @@ Basic Spring ORM Application with H2 Database to perform CRUD operations on Pers
 
 ## Testing
 
-* [Mokito](https://site.mockito.org/)
+* [Mokito](https://site.mockito.org/)- Mocking library
 
 ## Built With
 
